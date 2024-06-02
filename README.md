@@ -1,2 +1,2 @@
-There are about 29 varaibles which are transformed to reomove the context and are used for predcition of class varaiable.
+There are about 29 variables that are transformed to remove the context and are used for the prediction of class variable.
 The data is divided between training and text data.
